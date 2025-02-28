@@ -2,7 +2,7 @@
 I am a junior student majoring in **Business Administration** at **National Taiwan University**, passionate about **data science** and its applications in business analytics.  
 
 ### **📚 Relevant Cool Courses**  
-Here are some cool courses I have taken, take a look of the projects related to them:  
+Here are some cool courses I have taken, take a look at the projects related to them:  
 - **Machine Learning** 🧠
   - Final Project
 - **Data Mining** 🔍
