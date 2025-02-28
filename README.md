@@ -45,7 +45,7 @@ I have experience working with **Python, SQL, and C** for data-driven projects a
 - Applied various methods: **TF-IDF, word embeddings, probability models, neural networks, clustering, and gradient boosting**.  
 - **Best model: DeBERTa**, ranking **12th out of 147 participants**.  
 
-#### **📌 AI & NLP: Financial Q&A with RAG & LLM (Yushan AI Challenge)**  
+#### **📌 Data Mining: Financial Q&A with RAG & LLM (Yushan AI Challenge)**  
 **Objective**: Retrieve the most relevant financial documents (insurance policies, financial reports, or banking Q&A) based on user queries.  
 - Processed **unstructured PDF documents** and optimized text handling for financial data retrieval.  
 - Compared **TF-IDF and word embeddings** for search accuracy.  
