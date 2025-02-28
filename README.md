@@ -9,8 +9,9 @@ Here are some cool courses I have taken, take a look of the projects related to 
   - [Lab 1](https://github.com/yhk1105/DM2024-Lab1-Homework)
   - [Lab 2](https://github.com/yhk1105/DM2024-Lab2-Homework)
   - Final Project
-- **Operation Research** 🔍
-  - 
+- **Operation Research** 🔬
+  - Midterm Project
+  - Final Project
 
 ### **💡 Interests & Skills**  
 I am particularly interested in:  
