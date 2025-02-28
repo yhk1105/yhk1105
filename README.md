@@ -27,4 +27,3 @@ Projects:
 - 
 
 ### **📫 Connect with Me!**  
-(If you have a LinkedIn, personal website, or blog, you can add it here)  
