@@ -24,9 +24,7 @@ Internship:
 - **Ally Logistic Property** Data and AI Application Intern:
 - 
 Projects:
-- **Customer Segmentation Using Machine Learning** (K-Means Clustering on E-commerce data)  
-- **Stock Price Prediction Using LSTM**  
-- **Market Basket Analysis for Retail Business Optimization**  
+- 
 
 ### **📫 Connect with Me!**  
 (If you have a LinkedIn, personal website, or blog, you can add it here)  
