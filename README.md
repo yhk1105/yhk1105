@@ -33,25 +33,20 @@ I have experience working with **Python, SQL, and C** for data-driven projects a
 
 ### **📊 Projects**  
 
-#### **📌 Machine Learning: Baseball Game Outcome Prediction (Oct 2024 - Dec 2024)**  
+#### **📌 Machine Learning: Baseball Game Outcome Prediction**  
 **Objective**: Develop machine learning models to predict baseball game outcomes based on historical data.  
 - Performed **feature engineering** to identify key influencing factors.  
 - Evaluated multiple models, including **Logistic Regression, Random Forest, XGBoost, and Neural Networks**.  
 - **Best model: XGBoost**, ranking **35th out of 142 teams**.  
 
-#### **📌 Data Mining: Twitter Sentiment Analysis (Oct 2024 - Dec 2024)**  
+#### **📌 Data Mining: Twitter Sentiment Analysis **  
 **Objective**: Train a model to classify tweet sentiments using labeled datasets.  
 - Preprocessed text data, including **normalization and translation** for improved accuracy.  
 - Applied various methods: **TF-IDF, word embeddings, probability models, neural networks, clustering, and gradient boosting**.  
 - **Best model: DeBERTa**, ranking **12th out of 147 participants**.  
 
-#### **📌 AI & NLP: Financial Q&A with RAG & LLM (Yushan AI Challenge) (Nov 2024 - Dec 2024)**  
+#### **📌 AI & NLP: Financial Q&A with RAG & LLM (Yushan AI Challenge) **  
 **Objective**: Retrieve the most relevant financial documents (insurance policies, financial reports, or banking Q&A) based on user queries.  
 - Processed **unstructured PDF documents** and optimized text handling for financial data retrieval.  
 - Compared **TF-IDF and word embeddings** for search accuracy.  
 - **Results**: **Word embeddings performed best for banking queries**, while **TF-IDF worked better for general financial questions**. **Ranked 56th out of 487 teams**.  
-
----
-
-### **📫 Connect with Me!**  
-(Here, you can add your **GitHub, LinkedIn, or email** for networking opportunities.)  
