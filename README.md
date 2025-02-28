@@ -1,16 +1,32 @@
-## Hi there 👋
+### **👋 Hi, I'm Calvin!**  
+I am a junior student majoring in **Business Administration** at **National Taiwan University** with a strong passion for **data science**.  
 
-<!--
-**yhk1105/yhk1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **📚 Relevant Courses**  
+I have taken several data-related courses, including:  
+- **Machine Learning** 🧠  
+- **Data Mining** 🔍  
+- **Data Structures and Algorithms** 📊  
+- **Operation Research** 🔬  
+- **Database Management** 🦾  
+- **Programming Design** 🧑‍💻  
 
-Here are some ideas to get you started:
+### **💡 Interests & Skills**  
+I am particularly interested in:  
+- **Data Analysis & Visualization** 📈  
+- **Machine Learning & AI** 🤖  
+- **Business Analytics & Decision Science** 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I have experience working with **Python, SQL, and C** for data-related projects and enjoy solving real-world problems using data-driven approaches.  
+
+### **🚀 Projects & Experience**  
+Internship:
+- **Ally Logistic Property** Data and AI Application Intern:
+- 
+Projects:
+- **Customer Segmentation Using Machine Learning** (K-Means Clustering on E-commerce data)  
+- **Stock Price Prediction Using LSTM**  
+- **Market Basket Analysis for Retail Business Optimization**  
+
+### **📫 Connect with Me!**  
+(If you have a LinkedIn, personal website, or blog, you can add it here)  
