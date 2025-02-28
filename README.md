@@ -3,8 +3,12 @@ I am a junior student majoring in **Business Administration** at **National Taiw
 
 ### **📚 Relevant Cool Courses**  
 Here are some cool courses I have taken, take a look of the projects related to these courses:  
-- **Machine Learning** 🧠  
-- **Data Mining** 🔍  
+- **Machine Learning** 🧠
+  - Final Project
+- **Data Mining** 🔍
+  - Lab 1
+  - Lab 2
+  - Final Project
 
 ### **💡 Interests & Skills**  
 I am particularly interested in:  
