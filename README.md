@@ -4,7 +4,7 @@ I am a junior student majoring in **Business Administration** at **National Taiw
 ### **📚 Relevant Cool Courses**  
 Here are some cool courses I have taken, take a look at the projects related to them:  
 - **Machine Learning** 🧠
-  - Final Project
+  - [Final Project](https://github.com/yhk1105/HTML_Final)
 - **Data Mining** 🔍
   - [Lab 1](https://github.com/yhk1105/DM2024-Lab1-Homework)
   - [Lab 2](https://github.com/yhk1105/DM2024-Lab2-Homework)
