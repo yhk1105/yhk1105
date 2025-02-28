@@ -8,7 +8,7 @@ Here are some cool courses I have taken, take a look of the projects related to 
 - **Data Mining** 🔍
   - [Lab 1](https://github.com/yhk1105/DM2024-Lab1-Homework)
   - [Lab 2](https://github.com/yhk1105/DM2024-Lab2-Homework)
-  - Final Project
+  - [Final Project](https://github.com/yhk1105/DM2024_G27_final/tree/main)
 - **Operation Research** 🔬
   - [Midterm Project](https://github.com/yhk1105/OR_midterm/tree/main)
   - [Final Project](https://github.com/yhk1105/OR_final)
