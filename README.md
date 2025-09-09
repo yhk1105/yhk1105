@@ -13,7 +13,7 @@ Here are some cool courses I have taken, take a look at the projects related to 
   - [Final Project](https://github.com/yhk1105/OR_final)
 - **Machine Learning** 🧠
   - [Final Project](https://github.com/yhk1105/HTML_Final)
--  **Foundation of Artificial Intelligence**
+- **Foundation of Artificial Intelligence**
   - Final Project
 
 ### **💡 Interests & Skills**  
