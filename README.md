@@ -56,4 +56,3 @@ Admitted to NTU Graduate Institute of Information Management (M.S., expected to 
 ### Stats / Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yhk1105&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhk1105&show_icons=true&hide_border=true)
