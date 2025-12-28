@@ -48,3 +48,12 @@ Admitted to NTU Graduate Institute of Information Management (M.S., expected to 
   - [Practical 1 (Report)](https://github.com/yhk1105/BizAnalytics114/blob/main/Practice_1/%E7%AC%AC%E4%BA%8C%E7%B5%84In-class%20Practical-1.pdf) / [Code](https://github.com/yhk1105/BizAnalytics114/blob/main/Practice_1/practice_1_consolidated%20ver.R)
   - [Practical 2 (Report)](https://github.com/yhk1105/BizAnalytics114/blob/main/Practice_2/%E7%AC%AC%E4%BA%8C%E7%B5%84-In-Class-Practical-2.pdf) / [Code](https://github.com/yhk1105/BizAnalytics114/blob/main/Practice_2/inclass_Final.R)
   - [Final (Report)](https://github.com/yhk1105/BizAnalytics114/blob/main/Final_project/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8Areport.pdf) / [Code](https://github.com/yhk1105/BizAnalytics114/blob/main/Final_project/final_code.R)
+
+### Tech (selected)
+
+![Skills](https://skillicons.dev/icons?i=python,r,git,github,sql,mongodb&perline=8)
+
+### Stats / Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yhk1105&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhk1105&show_icons=true&hide_border=true)
