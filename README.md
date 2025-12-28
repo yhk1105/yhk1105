@@ -49,9 +49,9 @@ Admitted to NTU Graduate Institute of Information Management (M.S., expected to 
   - [Practical 2 (Report)](https://github.com/yhk1105/BizAnalytics114/blob/main/Practice_2/%E7%AC%AC%E4%BA%8C%E7%B5%84-In-Class-Practical-2.pdf) / [Code](https://github.com/yhk1105/BizAnalytics114/blob/main/Practice_2/inclass_Final.R)
   - [Final (Report)](https://github.com/yhk1105/BizAnalytics114/blob/main/Final_project/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8Areport.pdf) / [Code](https://github.com/yhk1105/BizAnalytics114/blob/main/Final_project/final_code.R)
 
-### Tech (selected)
+### Skills
 
-![Skills](https://skillicons.dev/icons?i=python,r,git,github,sql,mongodb&perline=8)
+![Skills](https://skillicons.dev/icons?i=python,c,c++,r,git,github,postgresql,mongodb,fastapi&perline=8)
 
 ### Stats / Activity
 
