@@ -51,7 +51,7 @@ Admitted to NTU Graduate Institute of Information Management (M.S., expected to 
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,r,git,github,postgresql,mongodb,fastapi,javascript,html,css&perline=8)
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,r,git,github,postgresql,mongodb,fastapi,docker,javascript,html,css&perline=8)
 
 ### Stats / Activity
 
